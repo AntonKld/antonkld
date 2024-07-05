@@ -28,7 +28,7 @@ Hi there. My name is Anton Kolcov! 👋
 [![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonKld)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosha94kld@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Anton1_1_1)
-[![Discord](https://img.shields.io/badge/discord-link?style=for-the-badge&logo=Discord&logoSize=auto&color=%23000000)](https://discordapp.com/users/1011678289884086295)
+<!-- [![Discord](https://img.shields.io/badge/discord-link?style=for-the-badge&logo=Discord&logoSize=auto&color=%23000000)](https://discordapp.com/users/1011678289884086295) -->
 
 
 # 💻 Tech Stack:
