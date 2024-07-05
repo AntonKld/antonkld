@@ -21,13 +21,14 @@ Hi there. My name is Anton Kolcov! 👋
 <br>🔭 I'm a beginner Frontend developer.<br>
 <br>🌱 I’m currently learning everything 🤣<br>
 <br>📚 Successfully completed courses on interface development at the HTML Academy<br>
+<br>✨I am currently doing a commercial internship at Liga-A, but the projects fall under the NDA, so I do not have the opportunity to add them to myself.<br>
 
 ### 🌐 Contacts:
 
 [![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonKld)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosha94kld@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Anton1_1_1)
-<!-- [![Discord](https://img.shields.io/badge/discord-link?style=for-the-badge&logo=Discord&logoSize=auto&color=%23000000)](https://discordapp.com/users/1011678289884086295) -->
+[![Discord](https://img.shields.io/badge/discord-link?style=for-the-badge&logo=Discord&logoSize=auto&color=%23000000)](https://discordapp.com/users/1011678289884086295)
 
 
 # 💻 Tech Stack:
